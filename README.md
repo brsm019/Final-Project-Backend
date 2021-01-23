@@ -6,8 +6,7 @@
 
 ## Gaming Platform
 
-
-
+![2](https://user-images.githubusercontent.com/70659641/105608189-65406d80-5d9a-11eb-8499-47169b53acf8.png)
 
 Our clients, the School of Code, gave us the brief:
 
