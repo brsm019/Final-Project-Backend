@@ -1,5 +1,3 @@
-# ABOUT
-
 ## Facts! Game
 
 ![1](https://user-images.githubusercontent.com/70659641/105608107-e3504480-5d99-11eb-93e9-df4292ccdf81.png)
@@ -7,6 +5,8 @@
 ## Gaming Platform
 
 ![2](https://user-images.githubusercontent.com/70659641/105608189-65406d80-5d9a-11eb-8499-47169b53acf8.png)
+
+# ABOUT
 
 Our clients, the School of Code, gave us the brief:
 
