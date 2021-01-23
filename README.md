@@ -1,5 +1,14 @@
 # ABOUT
 
+## Facts! Game
+
+![1](https://user-images.githubusercontent.com/70659641/105608107-e3504480-5d99-11eb-93e9-df4292ccdf81.png)
+
+## Gaming Platform
+
+
+
+
 Our clients, the School of Code, gave us the brief:
 
 >'Improve remote team building at the School of Code'
